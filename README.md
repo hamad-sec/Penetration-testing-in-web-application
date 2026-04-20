@@ -88,4 +88,6 @@ This project was conducted in a controlled lab environment for educational purpo
 ---
 
 ## 📄 Report
-The full detailed report is available in the attached PDF file.
+The full detailed report is available below:
+
+[Download Project Report](./Penetration-testing-in-web-application.pdf)
